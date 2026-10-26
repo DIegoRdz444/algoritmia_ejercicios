@@ -2,7 +2,7 @@
 
 ## Repositorio
 URL del repositorio:
-https://github.com/DIegoRdz444/algoritmia_ejercicios/new/main?filename=README.md
+https://github.com/DIegoRdz444/algoritmia_ejercicios/tree/main
 
 ## Video Demo
 URL del video:
